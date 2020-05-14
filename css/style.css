@@ -34,8 +34,12 @@ body {
 }
 
 #imgbanner {
-    background-image:  url("/imgs/showcase-about_0.jpg");
+    background-image: linear-gradient(rgba(3, 6, 90, 0.5), rgba(0, 0, 0, 0.5)), url("banner.jpg");
     height: 170px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 #topcontent {
