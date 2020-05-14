@@ -1,5 +1,5 @@
 body {
-    font-size: 12px;
+    font-size: 14px;
 }
 #navbar, #maintop,#sidebar,#leftvideo,#bottomcontent,#maincontent{
     
@@ -34,8 +34,8 @@ body {
 }
 
 #imgbanner {
-    background-image: linear-gradient(rgba(3, 6, 90, 0.5), rgba(0, 0, 0, 0.7)), url("/imgs/showcase-about_0.jpg");
-    height: 170px;
+    background-image:  url("/imgs/showcase-about_0.jpg");
+    height: 170px
 }
 
 #topcontent {
