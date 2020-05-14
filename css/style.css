@@ -1,0 +1,130 @@
+body {
+    font-size: 12px;
+}
+#navbar, #maintop,#sidebar,#leftvideo,#bottomcontent,#maincontent{
+    
+    margin-bottom:0;
+    margin-top:10px;
+}
+
+#maintop {
+    height:400px;
+}
+
+#header {
+    background-color: #033c5a;
+    color:white;
+    text-align:center left;
+    padding:15px;
+}
+
+#gwlogo {
+        height: 45px;
+        width: auto; 
+        margin-left:7%;
+        
+    }
+#smhslogo {
+    height:45px;
+    width:auto;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left: 20px;
+    
+}
+
+#imgbanner {
+    background-image: linear-gradient(rgba(3, 6, 90, 0.5), rgba(0, 0, 0, 0.7)), url("/imgs/showcase-about_0.jpg");
+    height: 170px;
+}
+
+#topcontent {
+    color:white;
+    text-align:center;
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    
+    
+}
+
+#topcontent h1 {
+    font-size:20px;
+}
+
+
+
+#sidebar {
+    background-color: #f7f7f7;
+}
+
+#events {
+    background-color: #f7f7f7;
+}
+
+a {
+    color:black;
+}
+
+#maincontent {
+    }
+
+#maincontent img {
+    height: 95px;
+    width: 150px;
+}
+
+.subsectiontitle {
+    font-size: 20px;
+    line-height: 24px;
+    color: #0a5b80;
+    font-weight: normal;
+}
+
+.articletitle {
+    color: #033c5a;
+    font-size: 16px;
+}
+
+#translational {
+   
+}
+
+#translationalimg {
+   
+        background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(90, 92, 91, 0.7)), url("https://smhs.gwu.edu/dermatology/sites/dermatology/files/styles/875-x-variable/public/dermatology_0.png?itok=B3AuFh6u");
+        height: 170px;
+    
+}
+
+.headline {
+   font-size: 25px; 
+   line-height: 24px;
+   color: #0a5b80;
+    
+}
+ol a {
+    text-decoration: underline;
+}
+
+#sidebar img {
+    height:50px;
+    width:50px;
+    border:1px solid black;
+}
+
+.tinysidebartext {
+    font-size: 9px;
+}
+
+#headernav p {
+    display:inline;
+    
+}
+
+#bottomcontent img {
+    height:80px;
+    width:auto;
+    margin-left:15px;
+}
